@@ -1,0 +1,17 @@
+FTC Resource Library:
+https://www.firstinspires.org/resource-library/ftc/game-and-season-info
+
+FTC Mentor Manual:
+https://firstinspiresst01.blob.core.windows.net/first-energize-ftc/mentor-manual.pdf
+
+FTC season Timeline:
+https://www.firstinspires.org/robotics/ftc/season-timeline
+
+FTC Game Advancement:
+https://www.firstinspires.org/robotics/ftc/advancement-and-criteria
+
+FTC Q&A including Tech discussions
+https://ftc-qa.firstinspires.org/
+
+AUTODESK 
+https://help.autodesk.com/view/fusion360/ENU/courses/
